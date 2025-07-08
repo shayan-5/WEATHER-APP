@@ -1,2 +1,4 @@
 # WEATHER-APP
-A weather web-app which shows the weather conditions of the user location and the other cities .
+<br>
+Project author-Shayan Shaikh
+Description- A weather web app that shows the weather conditions of the user's location and other cities.
